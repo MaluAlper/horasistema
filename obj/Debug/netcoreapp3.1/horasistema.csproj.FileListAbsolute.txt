@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\bin\Debug\netcoreapp3.1\horasistema.exe
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\bin\Debug\netcoreapp3.1\horasistema.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\bin\Debug\netcoreapp3.1\horasistema.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\bin\Debug\netcoreapp3.1\horasistema.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\bin\Debug\netcoreapp3.1\horasistema.dll
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\bin\Debug\netcoreapp3.1\horasistema.pdb
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\obj\Debug\netcoreapp3.1\horasistema.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\obj\Debug\netcoreapp3.1\horasistema.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\obj\Debug\netcoreapp3.1\horasistema.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\obj\Debug\netcoreapp3.1\horasistema.dll
+C:\Users\Maria Luiza\Documents\Luiza\horasistema\horasistema\obj\Debug\netcoreapp3.1\horasistema.pdb
